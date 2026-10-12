@@ -18,12 +18,6 @@ This repository contains the code used to produce every figure of the paper
 from the simulation outputs, together with the processed data needed to
 remake most of them without the snapshots.
 
-<p align="center">
-  <img src="figures/fig02_density_slices.png" width="85%"><br>
-  <em>Fig. 2: time-averaged density of the hot (red) and cold (blue) phases
-  without (left) and with (right) the hot–cold source terms.</em>
-</p>
-
 ## Figures and scripts
 
 | Figure | Content | Script | Input |
